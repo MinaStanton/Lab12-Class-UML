@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\obj\Debug\netcoreapp3.1\Lab11_Class_UML.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\obj\Debug\netcoreapp3.1\Lab11_Class_UML.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\bin\Debug\netcoreapp3.1\Lab11_Class_UML.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\bin\Debug\netcoreapp3.1\Lab11_Class_UML.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\bin\Debug\netcoreapp3.1\Lab11_Class_UML.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\bin\Debug\netcoreapp3.1\Lab11_Class_UML.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\bin\Debug\netcoreapp3.1\Lab11_Class_UML.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\bin\Debug\netcoreapp3.1\Lab11_Class_UML.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\obj\Debug\netcoreapp3.1\Lab11_Class_UML.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\obj\Debug\netcoreapp3.1\Lab11_Class_UML.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab11_Class_UML\Lab11_Class_UML\obj\Debug\netcoreapp3.1\Lab11_Class_UML.csprojAssemblyReference.cache
