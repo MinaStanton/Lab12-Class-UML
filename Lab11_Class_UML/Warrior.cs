@@ -6,7 +6,7 @@ namespace Lab11_Class_UML
 {
     class Warrior : GameCharacter
     {
-        public string WeaponType { get; set; }
+        public string WeaponType { get; set; }//adding weapon type 
 
         public Warrior() { }
 
@@ -18,31 +18,10 @@ namespace Lab11_Class_UML
             WeaponType = _weaponType;
         }
 
-        public override void Play()
+        public override void Play()//override Play to include Weapon type
         {
             base.Play();
             Console.WriteLine($"Weapon Type: {WeaponType}");
         }
-
-        //public override void Name(string name)
-        //{
-        //    Console.WriteLine($"Character Name: {name}"); 
-        //}
-
-        //public override void Strength(int strength)
-        //{
-        //    Console.WriteLine($"Strength: {strength}");
-        //}
-
-        //public override void Intelligence(int intelligence)
-        //{
-        //    Console.WriteLine($"Intelligence: {intelligence}");
-        //}
-
-        //public override void Play(string name, int strength, int intelligence)
-        //{
-        //    base.Play(name, strength, intelligence);
-        //    Console.WriteLine($"Weapon Type: {WeaponType}");
-        //}
     }
 }

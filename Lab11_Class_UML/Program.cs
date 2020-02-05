@@ -1,5 +1,5 @@
 ﻿//Mina Stanton
-//Program description: Implement polymorphism. 
+//Program description: Implement polymorphism.
 
 using System;
 
@@ -9,6 +9,7 @@ namespace Lab11_Class_UML
     {
         static void Main(string[] args)
         {
+            //input created an array of GameCharacters along with the necessary information
             GameCharacter[] gameCharacters = new GameCharacter[5];
             gameCharacters[0] = new Warrior("Zelda", 25, 20, "Axe");
             gameCharacters[1] = new Warrior("Jon Snow", 50, 100, "Long Claw");
@@ -16,7 +17,7 @@ namespace Lab11_Class_UML
             gameCharacters[3] = new Wizard("Gandolf the white", 500, 1000, 2000, 10000);
             gameCharacters[4] = new Wizard("Harry Potter", 500, 90, 300, 10);
 
-           for(int i = 0; i < gameCharacters.Length; i++)
+           for(int i = 0; i < gameCharacters.Length; i++)//printing to console each character in the array
             {
                 gameCharacters[i].Play();
                 Console.WriteLine();

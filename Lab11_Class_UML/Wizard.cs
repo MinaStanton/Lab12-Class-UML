@@ -18,7 +18,7 @@ namespace Lab11_Class_UML
             SpellNumber = _spellNumber;
         }
 
-        public override void Play()
+        public override void Play()//override Play to include SpellNumber
         {
             base.Play();
             Console.WriteLine($"Spell Number: {SpellNumber}");

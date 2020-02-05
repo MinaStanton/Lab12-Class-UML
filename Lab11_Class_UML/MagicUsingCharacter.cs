@@ -18,22 +18,7 @@ namespace Lab11_Class_UML
 
         }
 
-        //public override void Name(string name)
-        //{
-        //    Console.WriteLine($"Character Name: {name}");
-        //}
-
-        //public override void Strength(int strength)
-        //{
-        //    Console.WriteLine($"Strength: {strength}");
-        //}
-
-        //public override void Intelligence(int intelligence)
-        //{
-        //    Console.WriteLine($"Intelligence: {intelligence}");
-        //}
-
-        public override void Play()
+        public override void Play()//override Play to include Magical energy
         {
             base.Play();
             Console.WriteLine($"Magical Energy: {MagicalEnergy}");
